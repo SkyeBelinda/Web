@@ -10,6 +10,7 @@ import './theme-styles/Solarized.css';
 import './theme-styles/IanPad.css';
 import './theme-styles/Midnight.css';
 import './theme-styles/Purple.css';
+import './theme-styles/Skye.css';
 /* JS Imports */
 import * as React from 'react';
 import registerServiceWorker from './registerServiceWorker';
